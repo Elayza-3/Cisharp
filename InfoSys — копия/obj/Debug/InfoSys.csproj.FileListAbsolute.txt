@@ -1,0 +1,10 @@
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\bin\Debug\InfoSys.exe.config
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\bin\Debug\InfoSys.exe
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\bin\Debug\InfoSys.pdb
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\obj\Debug\InfoSys.csproj.AssemblyReference.cache
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\obj\Debug\InfoSys.csproj.CoreCompileInputs.cache
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\obj\Debug\InfoSys.csproj.CopyComplete
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\obj\Debug\InfoSys.exe
+C:\Users\Dmitr\OneDrive\Рабочий стол\InfoSys\obj\Debug\InfoSys.pdb
